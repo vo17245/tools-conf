@@ -17,4 +17,5 @@ set shiftwidth=4
 set expandtab
 set autoindent
 
+inoremap <C-a> <C-V>
 
